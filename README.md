@@ -14,11 +14,11 @@ MeetUp Link: <https://www.meetup.com/rladies-baltimore/events/283231748/>
 
 -   A PDF file of my presentation.
 
+-   An appendix with additional information about specific sections of my presentation.
+
 -   In the R/ directory:
 
-    -   R scripts that, in order, demonstrate how to use R with Excel to (1) read,
-
-    (2) edit, (3) tidy, (4) visualize, and (5) share data and analyses.
+    -   R scripts that, in order, demonstrate how to use R with Excel to (1) read, (2) edit, (3) tidy, (4) visualize, and (5) share data and analyses.
 
 -   In the data/ directory:
 
