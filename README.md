@@ -10,6 +10,8 @@ Time: 3:00 PM to 4:30 PM EDT
 
 MeetUp Link: <https://www.meetup.com/rladies-baltimore/events/283231748/>
 
+YouTube Link: <https://www.youtube.com/watch?v=yWNh7L58CAc>
+
 ## Contents of This Repository
 
 -   A PDF file of my presentation.
@@ -22,11 +24,11 @@ MeetUp Link: <https://www.meetup.com/rladies-baltimore/events/283231748/>
 
 -   In the data/ directory:
 
-    -   Sample data from the [palmerspenguins](https://allisonhorst.github.io/palmerpenguins/) package in an Excel (.xlsx) format.
+    -   Sample data from the [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/) package in an Excel (.xlsx) format.
 
 -   In the data-raw/ directory:
 
-    -   An R script to generate the Excel-formatted data from the [palmerspenguins](https://allisonhorst.github.io/palmerpenguins/) package.
+    -   An R script to generate the Excel-formatted data from the [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/) package.
 
 ## Questions?
 
